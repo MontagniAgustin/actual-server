@@ -1,3 +1,8 @@
+# Monta Edition
+## Changes
+- Modificación de docker_compose.yml para ser levantado desde Portainer.
+
+---
 This is the main project to run [Actual](https://github.com/actualbudget/actual), a local-first personal finance tool. It comes with the latest version of Actual, and a server to persist changes and make data available across all devices.
 
 ### Getting Started
